@@ -2,6 +2,7 @@
 #
 # Created by: Lucas LeBlanc
 # Created on: Oct 2022
+# ICS3U-Assignment-3.py File,
 # This program tells you what type of triangle you have picked
 
 print("Input lengths of the triangle sides: ")
